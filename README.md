@@ -6,25 +6,25 @@ A ferramenta permite que o organizador cadastre um evento e abra uma página pú
 
 Os participantes inscritos podem emitir uma credencial para check-in no dia do evento.
 
-0 sistema fará um scan da credencial do participante para permitir a entrada no evento.
+O sistema fará um scan da credencial do participante para permitir a entrada no evento.
 
 ## Requisitos
 
 ### Requisitos funcionais
 
-- [ ] 0 organizador deve poder cadastrar um novo evento;
-- [ ] 0 organizador deve poder visualizar dados de um evento;
-- [ ] 0 organizador deve poder visualizar a lista de participantes;
-- [ ] 0 participante deve poder se inscrever em um evento;
-- [ ] 0 participante deve poder visualizar seu crachá de inscrição;
-- [ ] 0 participante deve poder realizar check-in no evento;
+- [ ] O organizador deve poder cadastrar um novo evento;
+- [ ] O organizador deve poder visualizar dados de um evento;
+- [ ] O organizador deve poder visualizar a lista de participantes;
+- [ ] O participante deve poder se inscrever em um evento;
+- [ ] O participante deve poder visualizar seu crachá de inscrição;
+- [ ] O participante deve poder realizar check-in no evento;
 
 ### Regras de negócio
 
-- [ ] 0 participante só pode se inscrever em um evento uma única vez;
-- [ ] 0 participante só pode se inscrever em eventos com vagas disponíveis;
-- [ ] 0 participante só pode realizar check-in em um evento uma única vez;
+- [ ] O participante só pode se inscrever em um evento uma única vez;
+- [ ] O participante só pode se inscrever em eventos com vagas disponíveis;
+- [ ] O participante só pode realizar check-in em um evento uma única vez;
 
 ### Requisitos não-funcionais
 
-- [ ] 0 check-in no evento será realizado através de um QRCode;
+- [ ] O check-in no evento será realizado através de um QRCode;
