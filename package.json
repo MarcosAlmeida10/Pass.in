@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/MarcosAlmeida10/Pass.in/issues"
   },
-  "homepage": "https://github.com/MarcosAlmeida10/Pass.in#readme"
+  "homepage": "https://github.com/MarcosAlmeida10/Pass.in#readme",
+  "devDependencies": {
+    "@types/node": "^22.13.10",
+    "typescript": "^5.8.2"
+  },
+  "dependencies": {
+    "D": "^1.0.0"
+  }
 }
