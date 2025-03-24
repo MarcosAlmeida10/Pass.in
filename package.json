@@ -1,27 +1,16 @@
 {
-  "name": "pass.in",
+  "name": "teste",
   "version": "1.0.0",
-  "description": "O pass.in é uma aplicação de **gestão de participantes em eventos presenciais**.",
+  "description": "teste",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/MarcosAlmeida10/Pass.in.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/MarcosAlmeida10/Pass.in/issues"
-  },
-  "homepage": "https://github.com/MarcosAlmeida10/Pass.in#readme",
   "devDependencies": {
-    "@types/node": "^22.13.10",
+    "@types/node": "^22.13.13",
     "typescript": "^5.8.2"
-  },
-  "dependencies": {
-    "D": "^1.0.0"
   }
 }
