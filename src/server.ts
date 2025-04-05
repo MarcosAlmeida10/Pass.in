@@ -1,6 +1,6 @@
 interface Pessoa {
-    name: string
     age: number
+    name: string
 }
 
-console.log('Hello World!')
+console.log('Hello Marcos')

@@ -1,16 +1,17 @@
 {
-  "name": "teste",
+  "name": "Pass.in",
   "version": "1.0.0",
-  "description": "teste",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "tsx watch src/server.ts"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "description": "",
   "devDependencies": {
-    "@types/node": "^22.13.13",
-    "typescript": "^5.8.2"
+    "@types/node": "^22.14.0",
+    "tsx": "^4.19.3",
+    "typescript": "^5.8.3"
   }
 }
