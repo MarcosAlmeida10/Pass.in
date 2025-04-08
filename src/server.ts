@@ -1,6 +1,7 @@
-interface Pessoa {
-    age: number
-    name: string
-}
+import fastify from "fastify";
 
-console.log('Hello Marcos')
+const app = fastify()
+
+app.listen({ port: 3333 }).then(() => {
+    console.log('HTTP server running!')
+})
