@@ -11,6 +11,10 @@ const app = fastify()
 
 // Semanticas Significado
 
+// Driver nativo / Query Builders / ORMs
+
+//Object Relational Mapping (Hibernate / Doctrine / ActiveRecord)
+
 app.get('/', () => {
     return 'Hello World'
 })
