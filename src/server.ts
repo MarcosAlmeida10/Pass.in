@@ -9,7 +9,7 @@ const app = fastify()
 // Parâmetros de rota (Route Params) -> Identificação de recursos 'DELETE http://localhost:3333/users/5 
 // Cabeçalhos (Headers) -> Contexto 
 
-// Semanticas Significado
+// Semanticas Significado´
 
 // Driver nativo / Query Builders / ORMs
 
